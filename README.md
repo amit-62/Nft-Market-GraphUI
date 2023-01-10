@@ -1,5 +1,9 @@
 # NextJS NFT Marketplace with TheGraph
 
+### Backend, script and smart contract lies at [Nft-Market](https://github.com/amit-62/Nft-Market)
+### Frontend and UI lies at [Nft-frontend](https://github.com/amit-62/Nft-Market-GraphUI)
+### Subgraph protocol lies at [subgraph-Nft](https://github.com/amit-62/subgraph-Nft)
+
 ## 1. Git clone the contracts repo
 
 In it's own terminal / command line, run: 
